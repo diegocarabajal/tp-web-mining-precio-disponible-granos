@@ -114,6 +114,8 @@ Resumen (detalle en [`docs/metodologia.md`](docs/metodologia.md)):
 
 Más historia (antes de 2023), scraping diario automatizado con alertas, minería de texto de noticias e informes (USDA, BCR), tipo de cambio y retenciones, clima de Argentina y Brasil, y combinación de modelos.
 
-## Licencia
+## Licencia y datos
 
-MIT — ver [`LICENSE`](LICENSE).
+El código de este repositorio se distribuye bajo la Licencia MIT ver [`LICENSE`](LICENSE).
+Los datos recolectados pertenecen a sus respectivas fuentes y se utilizan exclusivamente con fines académicos. Su uso está sujeto a los términos de cada sitio de origen.
+
